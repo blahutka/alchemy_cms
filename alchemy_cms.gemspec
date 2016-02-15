@@ -39,7 +39,7 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'responders',                       ['~> 2.0']
   gem.add_runtime_dependency 'sass-rails',                       ['~> 5.0']
   gem.add_runtime_dependency 'sassy-buttons',                    ['~> 0.2.6']
-  gem.add_runtime_dependency 'select2-rails',                  
+  gem.add_runtime_dependency 'select2-rails',                    ['~> 4.0']
   gem.add_runtime_dependency 'simple_form',                      ['~> 3.0']
   gem.add_runtime_dependency 'spinner.rb'
   gem.add_runtime_dependency 'turbolinks', ['~> 2.5']
